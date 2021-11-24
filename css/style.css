@@ -1,0 +1,117 @@
+body{
+background-image: url("../img/onsportfm.jpg");
+background-origin: border-box;
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+#img{
+    position:relative;
+}
+.audio{
+    margin: 50px auto;
+    width:100%;
+    height:100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content:start;
+    align-items: top;
+    
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+.ads1{
+    height:220px;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+    background-image: url("../img/download.jfif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 20px;
+
+}
+
+.ads1-1{
+    height:220px;
+    background-color: rgb(4, 4, 71);
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+    opacity: 0;
+}
+.ads1-1:hover{
+    opacity: 1;
+    background:  rgba(232, 232, 238, 0.568);
+}
+
+.ads2{
+    height:220px;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+    background-image: url("../img/download1.jfif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 20px;
+}
+.ads2-1{
+    height:220px;
+    background-color: rgb(4, 4, 71);
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+    opacity: 0;
+}
+.ads2-1:hover{
+    opacity: 1;
+    background:  rgba(232, 232, 238, 0.568);
+}
+.ads3{
+    height:220px;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+    background-image: url("../img/E98ZQPCWQAAo7vJ.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgb(103, 103, 124);
+}
+.ads3-1{
+    height:220px;
+    background-color: rgb(4, 4, 71);
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+    opacity: 0;
+}
+.ads3-1:hover{
+    opacity: 1;
+    background:  rgba(232, 232, 238, 0.568);
+}
+.secand{
+    box-sizing: border-box;
+    position: relative;
+}
+
+/* audio::-webkit-media-controls-play-button,
+     audio::-webkit-media-controls-panel {
+     background-color: rgb(240, 214, 66);
+     color: #000;
+     } */
