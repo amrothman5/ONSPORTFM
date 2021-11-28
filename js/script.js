@@ -1,6 +1,7 @@
 var audio = document.querySelector(".audio");
 audio.innerHTML=`<audio autoplay controls    class="audio2">
-<source src="http://41.33.11.25:8000/;"  type="audio/mpeg" >
-<source src="http://41.33.11.25:8000/;"  type="audio/ogg" >
+<source src="https://carina.streamerr.co:2020/stream/OnSportFM"  type="audio/mpeg" >
+<source src="https://carina.streamerr.co:2020/stream/OnSportFM"  type="audio/ogg" >
 </audio>`;
-
+//https://carina.streamerr.co:2020/stream/OnSportFM
+//<source src="http://41.33.11.25:8000/;"  type="audio/mpeg" >
