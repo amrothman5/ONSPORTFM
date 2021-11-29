@@ -34,12 +34,15 @@ background-origin: border-box;
     background-image: url("../img/download.jfif");
     background-repeat: no-repeat;
     background-size: cover;
-    margin-bottom: 20px;
-
+    margin-bottom: 5px;
+    
 }
 
 .ads1-1{
     height:220px;
+    text-align: center;
+    padding-top: 50px;
+    color: rgb(54, 38, 196);
     background-color: rgb(4, 4, 71);
     border-radius: 30px;
     -webkit-border-radius: 30px;
@@ -47,6 +50,7 @@ background-origin: border-box;
     -ms-border-radius: 30px;
     -o-border-radius: 30px;
     opacity: 0;
+
 }
 .ads1-1:hover{
     opacity: 1;
@@ -63,10 +67,13 @@ background-origin: border-box;
     background-image: url("../img/download1.jfif");
     background-repeat: no-repeat;
     background-size: cover;
-    margin-bottom: 20px;
+    margin-bottom: 5px;
 }
 .ads2-1{
     height:220px;
+    text-align: center;
+    padding-top: 50px;
+    color: rgb(54, 38, 196);
     background-color: rgb(4, 4, 71);
     border-radius: 30px;
     -webkit-border-radius: 30px;
@@ -93,6 +100,9 @@ background-origin: border-box;
 }
 .ads3-1{
     height:220px;
+    text-align: center;
+    padding-top: 50px;
+    color: rgb(54, 38, 196);
     background-color: rgb(4, 4, 71);
     border-radius: 30px;
     -webkit-border-radius: 30px;
@@ -108,10 +118,105 @@ background-origin: border-box;
 .secand{
     box-sizing: border-box;
     position: relative;
-}
+} 
 
 /* audio::-webkit-media-controls-play-button,
      audio::-webkit-media-controls-panel {
      background-color: rgb(240, 214, 66);
      color: #000;
-     } */
+     }
+
+*/
+.ads4{
+    height:220px;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+    background-image: url("../img/shober.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgb(103, 103, 124);
+}
+.ads4-1{
+    height:220px;
+    text-align: center;
+    padding-top: 50px;
+    color: rgb(54, 38, 196);
+    background-color: rgb(4, 4, 71);
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+    opacity: 0;
+}
+.ads4-1:hover{
+    opacity: 1;
+    background:  rgba(232, 232, 238, 0.568);
+}
+
+
+.ads5{
+    height:220px;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+    background-image: url("../img/download2.jfif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgb(103, 103, 124);
+}
+.ads5-1{
+    height:220px;
+    text-align: center;
+    padding-top: 50px;
+    color: rgb(54, 38, 196);
+    background-color: rgb(4, 4, 71);
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+    opacity: 0;
+}
+.ads5-1:hover{
+    opacity: 1;
+    background:  rgba(232, 232, 238, 0.568);
+}
+
+.ads6{
+    height:220px;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+    background-image: url("../img/khled.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgb(103, 103, 124);
+}
+.ads6-1{
+    height:220px;
+    text-align: center;
+    padding-top: 50px;
+    color: rgb(54, 38, 196);
+    background-color: rgb(4, 4, 71);
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+    opacity: 0;
+}
+.ads6-1:hover{
+    opacity: 1;
+    background:  rgba(232, 232, 238, 0.568);
+}
+
+
+
